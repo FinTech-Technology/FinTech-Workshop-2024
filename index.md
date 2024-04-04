@@ -15,7 +15,7 @@ layout: default
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
-<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </br>
+<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> <br />
 Reserved parking lot the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## AGENDA
@@ -30,7 +30,7 @@ Workshop speakers (alphabetical order):
 * John D'Arcy (UD)
 * Sebeom Oh (Temple University)
 
-<-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
+<!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
 ## Scope
 
