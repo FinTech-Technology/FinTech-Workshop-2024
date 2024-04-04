@@ -34,7 +34,7 @@ Workshop speakers (alphabetical order):
 
 ## Scope
 
-The FInTech Technology workshop aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest to the workshop include but are not limited to:
+The FinTech Technology workshop aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest to the workshop include but are not limited to:
 
 * Security and privacy in FinTech space
 * Artificial intelligence for FinTech operations
@@ -48,11 +48,21 @@ The FInTech Technology workshop aims to bring together researchers, practitioner
 
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
 
-## Workshop Contact
+## Workshop Chair
 * Nektarios Tsoutsos, University of Delaware (tsoutsos at udel dot edu)
+
+## Inquiries
+* Nichole Little, University of Delaware (nglittle at udel dot edu)
+
+## Campus-adjacent Lodging
+* [Embassy Suites by Hilton Newark](https://www.hilton.com/en/hotels/newdees-embassy-suites-newark-wilmington-south/)
+* [Homewood Suites by Hilton Newark](https://www.hilton.com/en/hotels/newhwhw-homewood-suites-newark-wilmington-south-area/)
+* [Hyatt Place Newark / Main Street](https://www.hyatt.com/en-US/hotel/delaware/hyatt-place-newark-main-street/ilgzn)
 
 ## Workshop Sponsors
 
-![CCAP](https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png)
+![Discover](https://www.discover.com/company/images/newsroom/media-downloads/discover.png | width=200)
 
-![Lerner](https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png)
+![CCAP](https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png | width=200)
+
+![Lerner](https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png | width=200)
