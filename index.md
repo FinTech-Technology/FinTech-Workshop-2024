@@ -61,8 +61,8 @@ Also, of interest are contributions that can point the FinTech community to new 
 
 ## Workshop Sponsors
 
-<img src="https://www.discover.com/company/images/newsroom/media-downloads/discover.png" width="200">
+![Discover](https://www.discover.com/company/images/newsroom/media-downloads/discover.png)
 
-<img src="https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png" width="200">
+![CCAP](https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png)
 
-<img src="https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png" width="200">
+![Lerner](https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png)
