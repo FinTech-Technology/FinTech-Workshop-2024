@@ -15,10 +15,22 @@ layout: default
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
-<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> </p>
+<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </br>
+Reserved parking lot the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## AGENDA
-<p> <strong> The agenda for the 2024 workshop <!--<a href="https://github.com/r2dm-workshop/r2dm-workshop.github.io/raw/main/IEEE_R2DM_Workshop_2023_Abstract_Booklet.pdf"> --> <strong> will be added here.  </strong> </strong> </p>
+Workshop speakers (alphabetical order):
+
+* Akhtarur Siddique (US Treasury/OCC)
+* Alberto Rossi (Georgetown University)
+* Alex Chinco (Barush College)
+* Eugenio Cerutti (IMF)
+* Gang Wang (UD)
+* J. Michael Bowman (Delaware Technology Park/UD)
+* John D'Arcy (UD)
+* Sebeom Oh (Temple University)
+
+<-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
 ## Scope
 
@@ -37,7 +49,7 @@ The workshop aims to bring together researchers, practitioners, and industry exp
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
 
 ## Workshop Chair
-*	Nektarios Tsoutsos, University of Delaware
+* Nektarios Tsoutsos, University of Delaware
 
 ## Workshop Sponsors
 
