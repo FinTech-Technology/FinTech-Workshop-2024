@@ -9,14 +9,14 @@ layout: default
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">2024 FinTech Workshop <br /> University of Delaware</p>
+	font-weight: normal;font-size: 30px;">2024 FinTech Technology Workshop <br /> University of Delaware</p>
 
 ## REGISTRATION
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
 ## DATE and LOCATION
 <p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> <br />
-Reserved parking lot the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
+Reserved parking lot for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## AGENDA
 Workshop speakers (alphabetical order):
@@ -34,7 +34,7 @@ Workshop speakers (alphabetical order):
 
 ## Scope
 
-The workshop aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest to the workshop include but are not limited to:
+The FInTech Technology workshop aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and opportunities in the FinTech space. The topics of interest to the workshop include but are not limited to:
 
 * Security and privacy in FinTech space
 * Artificial intelligence for FinTech operations
