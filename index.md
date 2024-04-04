@@ -31,7 +31,7 @@ The workshop aims to bring together researchers, practitioners, and industry exp
 * Applications of digital currencies
 * FinTech and Regulatory compliance
 * Standards for FinTech technologies
-* Encryption and authentication for crypto cyrrencies
+* Encryption and authentication for crypto currencies
 * Workforce development and training in FinTech
 
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
