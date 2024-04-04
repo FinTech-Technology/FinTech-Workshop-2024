@@ -48,9 +48,11 @@ The workshop aims to bring together researchers, practitioners, and industry exp
 
 Also, of interest are contributions that can point the FinTech community to new research directions, and those that can set agendas and priorities for future FinTech applications.
 
-## Workshop Chair
-* Nektarios Tsoutsos, University of Delaware
+## Workshop Contact
+* Nektarios Tsoutsos, University of Delaware (tsoutsos at udel dot edu)
 
 ## Workshop Sponsors
 
 ![CCAP](https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png)
+
+![Lerner](https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png)
