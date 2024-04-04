@@ -63,4 +63,4 @@ Also, of interest are contributions that can point the FinTech community to new 
 
 <img src="https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png" width="700" />
 
-<img src="https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png" width="500" />
+<img src="https://my.lerner.udel.edu/wp-content/uploads/UD-Monogram_Lerner_blue-hor_RGB-01.png" width="500" style="margin-left: 100px;" />
