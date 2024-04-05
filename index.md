@@ -11,14 +11,14 @@ layout: default
   line-height:1.3;
 	font-weight: normal;font-size: 30px;">2024 FinTech Technology Workshop <br /> University of Delaware</p>
 
-## REGISTRATION
+## Registration
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
-## DATE and LOCATION
+## Date and Location
 <p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> <br />
 Reserved parking lot for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
-## AGENDA
+## Agenda
 Workshop speakers (alphabetical order):
 
 * Akhtarur Siddique (US Treasury/OCC)
