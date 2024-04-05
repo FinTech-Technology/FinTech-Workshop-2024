@@ -15,8 +15,8 @@ layout: default
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
 ## Date and Location
-<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub <br /> 591 Collaboration Way, Newark, DE 19713 </strong> <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> <br />
-Reserved parking lot for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
+<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub (Room 501) <br /> 591 Collaboration Way, Newark, DE 19713  <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </strong> <br />
+Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## Agenda
 Workshop speakers (alphabetical order):
