@@ -15,7 +15,7 @@ layout: default
 <p> <strong> To attend the workshop, please register for FREE at <a href="https://forms.gle/N8Puo7f2BMDziKXeA"> <strong> https://forms.gle/N8Puo7f2BMDziKXeA </strong> </a> </strong> </p>
 
 ## Date and Location
-<p> <strong>  May 13, 2024  <br /> FinTech Innovation Hub (Room 501) <br /> 591 Collaboration Way, Newark, DE 19713  <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </strong> <br />
+<p> <strong>  May 13, 2024 -- 9:15am - 3:30pm <br /> FinTech Innovation Hub (Room 501) <br /> 591 Collaboration Way, Newark, DE 19713  <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </strong> <br />
 Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## Agenda
@@ -23,7 +23,7 @@ Workshop speakers (alphabetical order):
 
 * Akhtarur Siddique (US Treasury/OCC)
 * Alberto Rossi (Georgetown University)
-* Alex Chinco (Barush College)
+* Alex Chinco (Baruch College)
 * Eugenio Cerutti (IMF)
 * Gang Wang (UD)
 * J. Michael Bowman (Delaware Technology Park/UD)
