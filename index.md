@@ -21,14 +21,14 @@ Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4Zzjnu
 ## Agenda
 Workshop speakers (alphabetical order):
 
-* Akhtarur Siddique (US Treasury/OCC)
-* Alberto Rossi (Georgetown University)
-* Alex Chinco (Baruch College)
-* Eugenio Cerutti (IMF)
-* Gang Wang (UD)
-* J. Michael Bowman (Delaware Technology Park/UD)
-* John D'Arcy (UD)
-* Sebeom Oh (Temple University)
+* Akhtarur Siddique (US Treasury/OCC) - *Stablecoins: Funding and Market Liquidity*
+* Alberto Rossi (Georgetown University) - *Fighting Climate Change with FinTech*
+* Alex Chinco (Baruch College) - *Proving You Can Pick Stocks Without Revealing How*
+* Eugenio Cerutti (IMF) - *A Primer on Bitcoin Capital Flows: Measurement and Drivers*
+* Gang Wang (UD) - *The Double-Edged Roles of Generative AI in Creativity*
+* J. Michael Bowman (Delaware Technology Park/UD) - *What would Leonardo do?*
+* John D'Arcy (UD) - *Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms' Cybersecurity*
+* Sebeom Oh (Temple University) - *Digital Veblen Goods*
 
 <!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
