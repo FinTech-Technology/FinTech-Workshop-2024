@@ -19,16 +19,23 @@ layout: default
 Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
 
 ## Agenda
-Workshop speakers (alphabetical order):
+Workshop speakers:
 
-* Akhtarur Siddique (US Treasury/OCC) - *Stablecoins: Funding and Market Liquidity*
-* Alberto Rossi (Georgetown University) - *Fighting Climate Change with FinTech*
-* Alex Chinco (Baruch College) - *Proving You Can Pick Stocks Without Revealing How*
-* Eugenio Cerutti (IMF) - *A Primer on Bitcoin Capital Flows: Measurement and Drivers*
-* Gang Wang (UD) - *The Double-Edged Roles of Generative AI in Creativity*
-* J. Michael Bowman (Delaware Technology Park/UD) - *What would Leonardo do?*
-* John D'Arcy (UD) - *Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms' Cybersecurity*
-* Sebeom Oh (Temple University) - *Digital Veblen Goods*
+| Time   | Topic |
+| ---    | ----  |
+| 9:15a  |  Welcome Remarks  |
+| 9:25a  |  **J. Michael Bowman** (Delaware Technology Park/UD) - *What would Leonardo do?* |
+| 10:15a |  **Gang Wang** (UD) - *The Double-Edged Roles of Generative AI in Creativity* |
+| 10:45a |  Coffee Break |
+| 11:00a |  **Alex Chinco** (Baruch College) - *Proving You Can Pick Stocks Without Revealing How* |
+| 11:30a | **John D’Arcy** (UD) - *Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms' Cybersecurity* |
+| 12:00p |  **Eugenio Cerutti** (IMF) - *A Primer on Bitcoin Capital Flows: Measurement and Drivers* |
+| 12:30p |  Lunch Break |
+| 1:45p  |   **Akhtarur Siddique** (US Treasury/OCC) - *Stablecoins: Funding and Market Liquidity* |
+| 2:15p  |   **Alberto Rossi** (Georgetown University) - *Fighting Climate Change with FinTech* |
+| 2:45p  |   Coffee break |
+| 3:00p  |   **Sebeom Oh** (Temple University) - *Digital Veblen Goods* |
+| 3:30p  |   Closing Remarks |
 
 <!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
 
