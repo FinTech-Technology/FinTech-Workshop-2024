@@ -16,7 +16,7 @@ layout: default
 
 ## Date and Location
 <p> <strong>  May 13, 2024 -- 9:15am - 3:30pm <br /> FinTech Innovation Hub (Room 501) <br /> 591 Collaboration Way, Newark, DE 19713  <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </strong> <br />
-Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> <strong> Lot 213 </strong> </a> </p>
+Reserved parking for the workshop: <a href="https://maps.app.goo.gl/FtoHF9cWT6qAVfCx8"> <strong> Lot 213 </strong> </a> </p>
 
 ## Workshop Agenda
 
@@ -67,7 +67,7 @@ Also, of interest are contributions that can point the FinTech community to new 
 
 ## Workshop Sponsors
 
-<img src="Discover.png" width="600" style="margin-left: 3px;"/>
+<img src="Discover.png" width="500" style="margin-left: 3px;"/>
 
 <img src="https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png" width="700" style="margin-left: -55px;"/>
 
