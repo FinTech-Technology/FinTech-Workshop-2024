@@ -67,7 +67,7 @@ Also, of interest are contributions that can point the FinTech community to new 
 
 ## Workshop Sponsors
 
-<img src="Discover.png" width="700" style="margin-left: 0px;"/>
+<img src="Discover.png" width="600" style="margin-left: 3px;"/>
 
 <img src="https://ccap.udel.edu/files/2020/02/2021-CCAP-UDMonogram-lockups_blue-horizontal.png" width="700" style="margin-left: -55px;"/>
 
