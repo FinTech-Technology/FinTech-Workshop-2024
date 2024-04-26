@@ -22,7 +22,7 @@ Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4Zzjnu
 
 | Time   | Topic |
 | ---    | ----  |
-| **9:15a**  |  Welcome Remarks  |
+| **9:15a**  |  **Kimberley Isett** (Vice Provost, UD) - *Welcome Remarks*  |
 | **9:25a**  |  **J. Michael Bowman** (Delaware Technology Park/UD) - *What would Leonardo do?* |
 | **10:15a** |  **Gang Wang** (UD) - *The Double-Edged Roles of Generative AI in Creativity* |
 | **10:45a** |  Coffee Break |
