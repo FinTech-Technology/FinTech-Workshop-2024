@@ -16,7 +16,7 @@ layout: default
 
 ## Date and Location
 <p> <strong>  May 13, 2024 -- 9:15am - 3:30pm <br /> FinTech Innovation Hub (Room 501) <br /> 591 Collaboration Way, Newark, DE 19713  <a href="https://maps.app.goo.gl/AAxz1gJSzayq3TEr8"> (Directions) </a> </strong> <br />
-Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> Lot 209 </a> </p>
+Reserved parking for the workshop: <a href="https://maps.app.goo.gl/UPbzZL4ZzjnuJHZh7"> <strong> Lot 213 </strong> </a> </p>
 
 ## Workshop Agenda
 
