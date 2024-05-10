@@ -24,16 +24,16 @@ Reserved parking for the workshop: <a href="https://maps.app.goo.gl/FtoHF9cWT6qA
 | ---    | ----  |
 | **9:15a**  |  **Kimberley Isett** (Vice Provost, UD) - *Welcome Remarks*  |
 | **9:25a**  |  **J. Michael Bowman** (Delaware Technology Park/UD) - *What would Leonardo do?* |
-| **10:15a** |  **Gang Wang** (UD) - *The Double-Edged Roles of Generative AI in Creativity* |
+| **10:15a** |  **Gang Wang** (UD) - *The Double-Edged Roles of Generative AI in Creativity* <br> *Moderator:* Jack Bao |
 | **10:45a** |  Coffee Break |
-| **11:00a** |  **Alex Chinco** (Baruch College) - *Proving You Can Pick Stocks Without Revealing How* |
-| **11:30a** | **John D’Arcy** (UD) - *Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms' Cybersecurity* |
-| **12:00p** |  **Eugenio Cerutti** (IMF) - *A Primer on Bitcoin Capital Flows: Measurement and Drivers* |
+| **11:00a** |  **Alex Chinco** (Baruch College) - *Proving You Can Pick Stocks Without Revealing How* <br> *Moderator:* Jack Bao |
+| **11:30a** | **John D’Arcy** (UD) - *Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms' Cybersecurity* <br> *Moderator:* Xiao Fang |
+| **12:00p** |  **Eugenio Cerutti** (IMF) - *A Primer on Bitcoin Capital Flows: Measurement and Drivers* <br> *Moderator:* Xiao Fang |
 | **12:30p** |  Lunch Break |
-| **1:45p** |   **Akhtarur Siddique** (US Treasury/OCC) - *Stablecoins: Funding and Market Liquidity* |
-| **2:15p**  |   **Alberto Rossi** (Georgetown University) - *Fighting Climate Change with FinTech* |
+| **1:45p** |   **Akhtarur Siddique** (US Treasury/OCC) - *Stablecoins: Funding and Market Liquidity* <br> *Moderator:* Jiaheng Xie |
+| **2:15p**  |   **Alberto Rossi** (Georgetown University) - *Fighting Climate Change with FinTech* <br> *Moderator:* Jiaheng Xie |
 | **2:45p**  |   Coffee break |
-| **3:00p**  |   **Sebeom Oh** (Temple University) - *Digital Veblen Goods* |
+| **3:00p**  |   **Sebeom Oh** (Temple University) - *Digital Veblen Goods* <br> *Moderator:* Nektarios Tsoutsos |
 | **3:30p**  |   Closing Remarks |
 
 <!-- <p> <strong> The agenda for the 2024 workshop <strong> will be added here.  </strong> </strong> </p> -->
